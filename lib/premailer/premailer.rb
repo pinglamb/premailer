@@ -99,8 +99,7 @@ class Premailer
       'vertical-align' => 'valign',
       '-premailer-width' => 'width',
       '-premailer-height' => 'height'
-    },
-    'img' => {'float' => 'align'}
+    }
   }
 
   # URI of the HTML file used
